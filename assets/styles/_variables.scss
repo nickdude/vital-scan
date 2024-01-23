@@ -1,0 +1,93 @@
+// colors
+$scooter: #29BACD;
+$black: #000000;
+$jaffa: #E68139;
+$del-rio: #B19797;
+$alto: #E0E0E0;
+$mine-shaft: #333333;
+$emperor: #4F4F4F;
+$japanese-laurel: #009F06;
+$congress-blue: #004689;
+$gallery: #EBEBEB;
+
+$white: #FFFFFF;
+$tundora: #404040;
+$crimson: #E42313;
+$cerulean: #13A5E4;
+$regent-gray: #878E99;
+
+$electric-violet: #4900FF;
+$royal-blue: #4180E4;
+$midnight-blue: #002768;
+
+$border-radius-normal: 0.625rem;
+$border-radius-large: 2.375rem;
+
+$font-size-large: 1.5rem;
+$font-size-medium: 1.125rem;
+$font-size-normal: 1rem;
+$font-size-small: 0.875rem;
+$font-size-tiny: 0.8125rem;
+$font-size-nano: 0.75rem;
+
+$font-family-base: 'Pontano Sans', sans-serif;
+
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+
+$font-line-height-large: 2.25rem;
+
+// button
+$button-font-size: $font-size-large;
+$button-font-small-size: $font-size-medium;
+$button-font-tiny-size: $font-size-small;
+$button-font-weight: $font-weight-normal;
+$button-border-radius: $border-radius-normal;
+// primary
+// $primary-button-background: $midnight-blue;
+$primary-button-background: rgba(51, 203, 152, 1);
+$primary-button-text-color: $white;
+// secondary
+$secondary-button-background: $jaffa;
+$secondary-button-text-color: $white;
+
+// popup
+$popup-background: $del-rio;
+$popup-text-color: $white;
+$popup-font-size: $font-size-small;
+$popup-opacity: 0.83;
+$popup-border-radius: $border-radius-large;
+$popup-font-weight: $font-weight-normal;
+
+// status
+$status-background: $scooter;
+$status-color: $white;
+$status-main-font-size: $font-size-large;
+$status-additional-font-size: $font-size-small;
+$status-border-radius: $border-radius-normal;
+
+// logo
+$logo-font-size: $font-size-large;
+$logo-text-color: $scooter;
+$logo-line-height: $font-line-height-large;
+
+// info
+$info-doc-font-size: $font-size-medium;
+$info-doc-font-weight: $font-weight-bold;
+$info-doc-color: $mine-shaft;
+$info-value-font-size: $font-size-large;
+$info-name-font-size: $font-size-tiny;
+$info-item-color: $mine-shaft;
+$info-item-font-weight: $font-weight-normal;
+
+// results
+$results-value-font-size: $font-size-large;
+$results-name-font-size: $font-size-tiny;
+$results-item-color: $white;
+$results-item-font-weight: $font-weight-normal;
+$results-item-font-size: $font-size-normal;
+$results-update-time-color: $regent-gray;
+
+// common
+$base-background-color: $alto;
